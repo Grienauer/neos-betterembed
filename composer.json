@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "type": "neos-package",
+    "name": "ds/betterembed",
+    "require": {
+        "neos/neos": "^4",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ds\\BetterEmbed\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Ds.BetterEmbed"
+        }
+    }
+}

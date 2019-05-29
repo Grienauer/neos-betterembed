@@ -1,0 +1,10 @@
+Neos:
+  Neos:
+    fusion:
+      autoInclude:
+        Ds.BetterEmbed: true
+    userInterface:
+      translation:
+        autoInclude:
+          Ds.BetterEmbed:
+            - 'NodeTypes/*'
