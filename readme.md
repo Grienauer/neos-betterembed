@@ -80,5 +80,5 @@ prototype(Ds.BetterEmbed:ComponentRenderer) < prototype(Neos.Fusion:Case) {
 The package is based on the BetterEmbed API endpoint.
 you can read the API description [here](https://api.betterembed.com/swagger/index.html) and test urls.
 
-
-
+## Documentation
+The global documentation could be read [here](https://acolono.gitbook.io/betterembed/).
